@@ -6,3 +6,7 @@
 const sum (x:number, y:number) => {console.log(x+y)}
 sum(3,2)//5
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
